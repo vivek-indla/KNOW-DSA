@@ -9,6 +9,7 @@
 | [0229-majority-element-ii](https://github.com/vivek-indla/KNOW-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1920-build-array-from-permutation](https://github.com/vivek-indla/KNOW-DSA/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/vivek-indla/KNOW-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
 | ------- |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-indla/KNOW-DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
