@@ -96,4 +96,5 @@
 | ------- |
 | [0344-reverse-string](https://github.com/vivek-indla/KNOW-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vivek-indla/KNOW-DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [3110-score-of-a-string](https://github.com/vivek-indla/KNOW-DSA/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
