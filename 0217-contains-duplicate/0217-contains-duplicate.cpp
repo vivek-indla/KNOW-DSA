@@ -1,16 +1,15 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        int n=nums.size();
-        unordered_map<int,int> hashh;
-        for(int i:nums){
-            hashh[i]++;
+        unordered_set<int> set1;
+        for(const auto& i:nums){
+            set1.insert(i);
         }
-        for(const auto& i: hashh){
-            if(i.second>1){
-                return true;
-            }
+        if(nums.size()==set1.size()){
+            return false;
         }
-        return false;
+        else{
+            return true;
+        }
     }
 };
