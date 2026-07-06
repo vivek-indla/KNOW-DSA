@@ -8,8 +8,6 @@ public:
         if(nums.size()==set1.size()){
             return false;
         }
-        else{
-            return true;
-        }
+        return true;
     }
 };
