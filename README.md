@@ -9,6 +9,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivek-indla/KNOW-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vivek-indla/KNOW-DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-indla/KNOW-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/vivek-indla/KNOW-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vivek-indla/KNOW-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vivek-indla/KNOW-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vivek-indla/KNOW-DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vivek-indla/KNOW-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vivek-indla/KNOW-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vivek-indla/KNOW-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -54,6 +56,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vivek-indla/KNOW-DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vivek-indla/KNOW-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vivek-indla/KNOW-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vivek-indla/KNOW-DSA/tree/master/0349-intersection-of-two-arrays) |
