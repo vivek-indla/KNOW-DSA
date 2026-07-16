@@ -19,6 +19,5 @@ public:
                 right--;
             }
         }
-       // sort(nums.begin(),nums.end());
     }
 };
