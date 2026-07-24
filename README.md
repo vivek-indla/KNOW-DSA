@@ -127,4 +127,8 @@
 | [2942-find-words-containing-character](https://github.com/vivek-indla/KNOW-DSA/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/vivek-indla/KNOW-DSA/tree/master/3110-score-of-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/vivek-indla/KNOW-DSA/tree/master/3884-first-matching-character-from-both-ends) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
