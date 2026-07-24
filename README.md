@@ -118,6 +118,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/vivek-indla/KNOW-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/vivek-indla/KNOW-DSA/tree/master/0231-power-of-two) |
 ## String
 |  |
@@ -131,4 +132,5 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/vivek-indla/KNOW-DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
