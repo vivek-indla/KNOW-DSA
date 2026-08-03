@@ -136,4 +136,5 @@
 | [0002-add-two-numbers](https://github.com/vivek-indla/KNOW-DSA/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/vivek-indla/KNOW-DSA/tree/master/0203-remove-linked-list-elements) |
+| [0328-odd-even-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
