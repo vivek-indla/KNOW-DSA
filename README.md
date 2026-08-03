@@ -42,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vivek-indla/KNOW-DSA/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/vivek-indla/KNOW-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/0268-missing-number) |
 ## Binary Search
@@ -118,6 +119,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vivek-indla/KNOW-DSA/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/vivek-indla/KNOW-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/vivek-indla/KNOW-DSA/tree/master/0231-power-of-two) |
 ## String
@@ -131,6 +133,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vivek-indla/KNOW-DSA/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/vivek-indla/KNOW-DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
