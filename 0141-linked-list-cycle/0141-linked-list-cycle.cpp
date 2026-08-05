@@ -9,14 +9,26 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        unordered_map<ListNode*,int> mpp;
-        ListNode* temp=head;
-        while(temp){
-            if(mpp.find(temp)!=mpp.end()){
+        // unordered_map<ListNode*,int> mpp;
+        // ListNode* temp=head;
+        // while(temp){
+        //     if(mpp.find(temp)!=mpp.end()){
+        //         return true;
+        //     }
+        //     mpp[temp]=1;
+        //     temp=temp->next;
+        // }
+        // return false;
+        //above is the brute force approach time: O(N) and space :O(N) for using external space
+
+        ListNode* slow=head;
+        ListNode* fast=head;
+        while(fast!=NULL && fast->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
+            if(slow==fast){
                 return true;
             }
-            mpp[temp]=1;
-            temp=temp->next;
         }
         return false;
     }
