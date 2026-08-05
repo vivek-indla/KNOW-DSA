@@ -9,12 +9,15 @@
  * };
  */
  ListNode* reverseLL(ListNode* head){
-    if(head==NULL||head->next==NULL) return head;
-    ListNode* newHead=reverseLL(head->next);
-    ListNode* front=head->next;
-    front->next=head;
-    head->next=NULL;
-    return newHead;
+    ListNode* curr=head;
+    ListNode* prev=NULL;
+    while(curr){
+        ListNode* newNode=curr->next;
+        curr->next=prev;
+        prev=curr;
+        curr=newNode;
+    }
+    return prev;
  }
 class Solution {
 public:
