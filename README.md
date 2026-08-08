@@ -23,6 +23,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/vivek-indla/KNOW-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/vivek-indla/KNOW-DSA/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/vivek-indla/KNOW-DSA/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/vivek-indla/KNOW-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1920-build-array-from-permutation](https://github.com/vivek-indla/KNOW-DSA/tree/master/1920-build-array-from-permutation) |
@@ -48,6 +49,7 @@
 | [0002-add-two-numbers](https://github.com/vivek-indla/KNOW-DSA/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/vivek-indla/KNOW-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/vivek-indla/KNOW-DSA/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,4 +171,20 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vivek-indla/KNOW-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vivek-indla/KNOW-DSA/tree/master/0142-linked-list-cycle-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vivek-indla/KNOW-DSA/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vivek-indla/KNOW-DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vivek-indla/KNOW-DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vivek-indla/KNOW-DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
