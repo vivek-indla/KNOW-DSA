@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/vivek-indla/KNOW-DSA/tree/master/1920-build-array-from-permutation) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/vivek-indla/KNOW-DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Counting
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/vivek-indla/KNOW-DSA/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/vivek-indla/KNOW-DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Stack
 |  |
 | ------- |
