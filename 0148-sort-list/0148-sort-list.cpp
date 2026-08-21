@@ -10,7 +10,7 @@
  */
  ListNode* middle(ListNode* head){
     ListNode* slow=head;
-    ListNode* fast=head;
+    ListNode* fast=head->next;
     while(fast->next!=NULL && fast->next->next!=NULL){
         slow=slow->next;
         fast=fast->next->next;
