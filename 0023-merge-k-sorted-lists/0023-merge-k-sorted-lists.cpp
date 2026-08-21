@@ -59,12 +59,32 @@ public:
         // above is the brute approach use time : O(N Log N) space : O(N)
         
         //second approach
-        if(lists.empty())
-            return NULL;
-        ListNode* head=lists[0];
-        for(int i=1;i<lists.size();i++){
-            head=mergeTwoLists(head,lists[i]);
+        // if(lists.empty())
+        //     return NULL;
+        // ListNode* head=lists[0];
+        // for(int i=1;i<lists.size();i++){
+        //     head=mergeTwoLists(head,lists[i]);
+        // }
+        // return head;
+        // above is also considered as  brute because time : O(N log K) space: O(1) no extra space
+
+        //optimal approach is below
+        priority_queue<pair<int,ListNode*>,vector<pair<int,ListNode*>>,greater<pair<int,ListNode*>>> pq;
+        for(int i=0;i<lists.size();i++){
+            if(lists[i])
+                pq.push({lists[i]->val,lists[i]});
         }
-        return head;
-    }
+        ListNode* dummyHead=new ListNode(-1);
+        ListNode* temp=dummyHead;
+        while(!pq.empty()){
+            auto it=pq.top();
+            pq.pop();
+            if(it.second->next){
+                pq.push({it.second->next->val,it.second->next});
+            }
+            temp->next=it.second;
+            temp=temp->next;
+        }
+        return dummyHead->next;
+}
 };
