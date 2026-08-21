@@ -69,6 +69,7 @@ public:
         // above is also considered as  brute because time : O(N log K) space: O(1) no extra space
 
         //optimal approach is below
+        //complexity near to time: O(n^2) and space: O(1) no extra space
         priority_queue<pair<int,ListNode*>,vector<pair<int,ListNode*>>,greater<pair<int,ListNode*>>> pq;
         for(int i=0;i<lists.size();i++){
             if(lists[i])
