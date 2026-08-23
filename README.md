@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vivek-indla/KNOW-DSA/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/vivek-indla/KNOW-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/vivek-indla/KNOW-DSA/tree/master/0877-stone-game) |
