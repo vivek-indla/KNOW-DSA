@@ -30,6 +30,7 @@
 | [1472-design-browser-history](https://github.com/vivek-indla/KNOW-DSA/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/vivek-indla/KNOW-DSA/tree/master/1920-build-array-from-permutation) |
+| [2574-left-and-right-sum-differences](https://github.com/vivek-indla/KNOW-DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vivek-indla/KNOW-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/vivek-indla/KNOW-DSA/tree/master/2942-find-words-containing-character) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/vivek-indla/KNOW-DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-indla/KNOW-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/vivek-indla/KNOW-DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
