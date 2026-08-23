@@ -29,6 +29,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1472-design-browser-history](https://github.com/vivek-indla/KNOW-DSA/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/vivek-indla/KNOW-DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/vivek-indla/KNOW-DSA/tree/master/1920-build-array-from-permutation) |
 | [2574-left-and-right-sum-differences](https://github.com/vivek-indla/KNOW-DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vivek-indla/KNOW-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -246,4 +247,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/0287-find-the-duplicate-number) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/vivek-indla/KNOW-DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
