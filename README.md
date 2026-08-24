@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vivek-indla/KNOW-DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vivek-indla/KNOW-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/vivek-indla/KNOW-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/vivek-indla/KNOW-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vivek-indla/KNOW-DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -106,6 +107,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vivek-indla/KNOW-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-indla/KNOW-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vivek-indla/KNOW-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/vivek-indla/KNOW-DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -165,6 +167,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vivek-indla/KNOW-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/vivek-indla/KNOW-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vivek-indla/KNOW-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [2942-find-words-containing-character](https://github.com/vivek-indla/KNOW-DSA/tree/master/2942-find-words-containing-character) |
