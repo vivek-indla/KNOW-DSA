@@ -67,6 +67,7 @@
 | [0231-power-of-two](https://github.com/vivek-indla/KNOW-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/vivek-indla/KNOW-DSA/tree/master/0877-stone-game) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -220,12 +221,14 @@
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/vivek-indla/KNOW-DSA/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/vivek-indla/KNOW-DSA/tree/master/1472-design-browser-history) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
