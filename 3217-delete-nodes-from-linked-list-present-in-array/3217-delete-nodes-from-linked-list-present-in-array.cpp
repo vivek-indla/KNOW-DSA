@@ -11,21 +11,18 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        map<int,int> hashh;
-        for(int i: nums){
-            hashh[i]=1;
-        }
-        while(head && hashh.find(head->val)!=hashh.end()){
+        unordered_set<int> st={nums.begin(),nums.end()};
+        while(head && st.count(head->val)){
             head=head->next;
         }
         ListNode* temp=head;
-        while(temp){
-            ListNode* nextNode=temp->next;
-            while(nextNode && hashh.find(nextNode->val)!=hashh.end()){
-                nextNode=nextNode->next;
+        while(temp && temp->next){
+            if(temp->next && st.count(temp->next->val)){
+                temp->next=temp->next->next;
             }
-            temp->next=nextNode;
-            temp=temp->next;
+            else{
+                temp=temp->next;
+            }
         }
         return head;
     }
