@@ -40,6 +40,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/vivek-indla/KNOW-DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vivek-indla/KNOW-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/vivek-indla/KNOW-DSA/tree/master/2942-find-words-containing-character) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/vivek-indla/KNOW-DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@
 | [0904-fruit-into-baskets](https://github.com/vivek-indla/KNOW-DSA/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vivek-indla/KNOW-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/vivek-indla/KNOW-DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/vivek-indla/KNOW-DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
