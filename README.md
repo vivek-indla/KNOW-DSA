@@ -57,6 +57,7 @@
 | [0268-missing-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vivek-indla/KNOW-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0904-fruit-into-baskets](https://github.com/vivek-indla/KNOW-DSA/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vivek-indla/KNOW-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/vivek-indla/KNOW-DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
@@ -122,6 +123,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/vivek-indla/KNOW-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/vivek-indla/KNOW-DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/vivek-indla/KNOW-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vivek-indla/KNOW-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vivek-indla/KNOW-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -183,6 +185,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivek-indla/KNOW-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/vivek-indla/KNOW-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vivek-indla/KNOW-DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vivek-indla/KNOW-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/vivek-indla/KNOW-DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2942-find-words-containing-character](https://github.com/vivek-indla/KNOW-DSA/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/vivek-indla/KNOW-DSA/tree/master/3110-score-of-a-string) |
