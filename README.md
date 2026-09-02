@@ -32,6 +32,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/vivek-indla/KNOW-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/1019-next-greater-node-in-linked-list) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vivek-indla/KNOW-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vivek-indla/KNOW-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1472-design-browser-history](https://github.com/vivek-indla/KNOW-DSA/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -61,6 +62,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/vivek-indla/KNOW-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/vivek-indla/KNOW-DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/vivek-indla/KNOW-DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vivek-indla/KNOW-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vivek-indla/KNOW-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/vivek-indla/KNOW-DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -72,6 +74,7 @@
 | [0231-power-of-two](https://github.com/vivek-indla/KNOW-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/vivek-indla/KNOW-DSA/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vivek-indla/KNOW-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Binary Search
 |  |
@@ -131,6 +134,7 @@
 | [0904-fruit-into-baskets](https://github.com/vivek-indla/KNOW-DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/vivek-indla/KNOW-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vivek-indla/KNOW-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vivek-indla/KNOW-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vivek-indla/KNOW-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vivek-indla/KNOW-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -139,6 +143,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-indla/KNOW-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/vivek-indla/KNOW-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vivek-indla/KNOW-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vivek-indla/KNOW-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vivek-indla/KNOW-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/1991-find-the-middle-index-in-array) |
