@@ -57,6 +57,7 @@
 | [0229-majority-element-ii](https://github.com/vivek-indla/KNOW-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vivek-indla/KNOW-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/vivek-indla/KNOW-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/vivek-indla/KNOW-DSA/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vivek-indla/KNOW-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/vivek-indla/KNOW-DSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -123,6 +124,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivek-indla/KNOW-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-indla/KNOW-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vivek-indla/KNOW-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/vivek-indla/KNOW-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/vivek-indla/KNOW-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/vivek-indla/KNOW-DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/vivek-indla/KNOW-DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -190,6 +192,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivek-indla/KNOW-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/vivek-indla/KNOW-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vivek-indla/KNOW-DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/vivek-indla/KNOW-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vivek-indla/KNOW-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/vivek-indla/KNOW-DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2942-find-words-containing-character](https://github.com/vivek-indla/KNOW-DSA/tree/master/2942-find-words-containing-character) |
