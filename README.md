@@ -26,6 +26,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/vivek-indla/KNOW-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/vivek-indla/KNOW-DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/vivek-indla/KNOW-DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/vivek-indla/KNOW-DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/vivek-indla/KNOW-DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/vivek-indla/KNOW-DSA/tree/master/0904-fruit-into-baskets) |
@@ -90,6 +91,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vivek-indla/KNOW-DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/vivek-indla/KNOW-DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/vivek-indla/KNOW-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vivek-indla/KNOW-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
@@ -314,4 +316,8 @@
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/2487-remove-nodes-from-linked-list) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
