@@ -56,6 +56,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vivek-indla/KNOW-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivek-indla/KNOW-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/vivek-indla/KNOW-DSA/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/vivek-indla/KNOW-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/vivek-indla/KNOW-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vivek-indla/KNOW-DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivek-indla/KNOW-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/vivek-indla/KNOW-DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-indla/KNOW-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vivek-indla/KNOW-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/vivek-indla/KNOW-DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivek-indla/KNOW-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/vivek-indla/KNOW-DSA/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/vivek-indla/KNOW-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vivek-indla/KNOW-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vivek-indla/KNOW-DSA/tree/master/0424-longest-repeating-character-replacement) |
