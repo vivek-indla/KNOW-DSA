@@ -3,12 +3,12 @@ public:
     int minEatingSpeed(vector<int>& piles, int h) {
         int maxPiles=piles[0];
         int n=piles.size();
-        int store=INT_MAX;
         for(int i=0;i<n;i++){
             if(piles[i]>maxPiles){
                 maxPiles=piles[i];
             }
         }
+        int store=maxPiles;
         long long low=1,high=maxPiles;
         while(low<=high){
             long long mid=low + (high-low)/2;
