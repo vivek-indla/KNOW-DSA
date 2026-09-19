@@ -10,9 +10,8 @@ public:
                 hash[s[left]-'A']--;
                 left++;
             }
-            if((right-left+1)-maxfreq <= k){
+            // if((right-left+1)-maxfreq <= k){
                 maxlen=max(maxlen,right-left+1);
-            }
             right++;
         }
         return maxlen;
