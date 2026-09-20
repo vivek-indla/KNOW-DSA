@@ -36,6 +36,7 @@
 | [0867-transpose-matrix](https://github.com/vivek-indla/KNOW-DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/vivek-indla/KNOW-DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/vivek-indla/KNOW-DSA/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/vivek-indla/KNOW-DSA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/vivek-indla/KNOW-DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/vivek-indla/KNOW-DSA/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/vivek-indla/KNOW-DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -140,6 +141,7 @@
 | [0229-majority-element-ii](https://github.com/vivek-indla/KNOW-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vivek-indla/KNOW-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0881-boats-to-save-people](https://github.com/vivek-indla/KNOW-DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/vivek-indla/KNOW-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vivek-indla/KNOW-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -208,6 +210,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/vivek-indla/KNOW-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vivek-indla/KNOW-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/vivek-indla/KNOW-DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/vivek-indla/KNOW-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -356,4 +359,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vivek-indla/KNOW-DSA/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/vivek-indla/KNOW-DSA/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/vivek-indla/KNOW-DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
