@@ -9,7 +9,7 @@ public:
             }
         }
         // cout<<mn<<endl;
-        long long store=mn;
+        // long long store=mn;
         int low=1,high=mn;
         while(low<=high){
             long long mid=low + (high-low)/2;
@@ -24,7 +24,7 @@ public:
             }
             // cout<<sum<<" "<<mid<<endl;
             if(sum<=threshold){
-                store=min(store,mid);
+                // store=min(store,mid);
                 // cout<<"min"<<store<<endl;
                 high=mid-1;
             }
@@ -32,6 +32,6 @@ public:
                 low=mid+1;
             }
         }
-        return store;
+        return low;
     }
 };
