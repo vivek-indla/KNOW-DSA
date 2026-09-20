@@ -1,14 +1,14 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-        map<int,int> hashh;
-        int n=nums.size();
+    vector<int> twoSum(vector<int>& arr, int target) {
+        map<int,int> mapp;
+        int n=arr.size();
         for(int i=0;i<n;i++){
-            int search=target-nums[i];
-            if(hashh.find(search)!=hashh.end()){
-                return {hashh[search],i};
+            int search=target-arr[i];
+            if(mapp.find(search)!=mapp.end()){
+                return {mapp[search],i};
             }
-            hashh[nums[i]]=i;
+            mapp[arr[i]]=i;
         }
         return {-1,-1};
     }
