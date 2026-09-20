@@ -16,11 +16,9 @@ public:
             long long sum=0;
             cout<<mid<<endl;
             for(int i=0;i<n;i++){
-                if(nums[i]<=mid) sum++;
-                else{
-                    sum+=(nums[i]/mid);
-                    if(nums[i]%mid!=0) sum++;
-                }
+                sum += (nums[i] + mid - 1) / mid;
+                if(sum > threshold)
+                    break;
             }
             // cout<<sum<<" "<<mid<<endl;
             if(sum<=threshold){
