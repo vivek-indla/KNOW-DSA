@@ -57,6 +57,7 @@
 | [1920-build-array-from-permutation](https://github.com/vivek-indla/KNOW-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2187-minimum-time-to-complete-trips](https://github.com/vivek-indla/KNOW-DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2574-left-and-right-sum-differences](https://github.com/vivek-indla/KNOW-DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vivek-indla/KNOW-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/vivek-indla/KNOW-DSA/tree/master/2942-find-words-containing-character) |
@@ -124,6 +125,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vivek-indla/KNOW-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vivek-indla/KNOW-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/1539-kth-missing-positive-number) |
+| [2187-minimum-time-to-complete-trips](https://github.com/vivek-indla/KNOW-DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vivek-indla/KNOW-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
