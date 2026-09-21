@@ -15,11 +15,11 @@ public:
                 }
             }
             cout<<mid<<" "<<total<<endl;
-            if(total<totalTrips){
-                low=mid+1;
+            if(total>=totalTrips){
+                high=mid-1;
             }
             else{
-                high=mid-1;
+                low=mid+1;
             }
         }
         return low;
