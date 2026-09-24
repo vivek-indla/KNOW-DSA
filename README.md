@@ -53,6 +53,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vivek-indla/KNOW-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/vivek-indla/KNOW-DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1672-richest-customer-wealth](https://github.com/vivek-indla/KNOW-DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/vivek-indla/KNOW-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/1929-concatenation-of-array) |
@@ -125,6 +126,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vivek-indla/KNOW-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vivek-indla/KNOW-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/vivek-indla/KNOW-DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2187-minimum-time-to-complete-trips](https://github.com/vivek-indla/KNOW-DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vivek-indla/KNOW-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
@@ -150,6 +152,7 @@
 | [0881-boats-to-save-people](https://github.com/vivek-indla/KNOW-DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/vivek-indla/KNOW-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/vivek-indla/KNOW-DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vivek-indla/KNOW-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
