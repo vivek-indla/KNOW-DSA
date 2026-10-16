@@ -63,6 +63,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/vivek-indla/KNOW-DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2574-left-and-right-sum-differences](https://github.com/vivek-indla/KNOW-DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2643-row-with-maximum-ones](https://github.com/vivek-indla/KNOW-DSA/tree/master/2643-row-with-maximum-ones) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vivek-indla/KNOW-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/vivek-indla/KNOW-DSA/tree/master/2942-find-words-containing-character) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -370,6 +371,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/vivek-indla/KNOW-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/vivek-indla/KNOW-DSA/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/vivek-indla/KNOW-DSA/tree/master/1672-richest-customer-wealth) |
+| [2643-row-with-maximum-ones](https://github.com/vivek-indla/KNOW-DSA/tree/master/2643-row-with-maximum-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
