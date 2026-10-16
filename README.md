@@ -58,6 +58,7 @@
 | [1539-kth-missing-positive-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/vivek-indla/KNOW-DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1672-richest-customer-wealth](https://github.com/vivek-indla/KNOW-DSA/tree/master/1672-richest-customer-wealth) |
+| [1901-find-a-peak-element-ii](https://github.com/vivek-indla/KNOW-DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/vivek-indla/KNOW-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/1991-find-the-middle-index-in-array) |
@@ -137,6 +138,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vivek-indla/KNOW-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/vivek-indla/KNOW-DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [1901-find-a-peak-element-ii](https://github.com/vivek-indla/KNOW-DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2187-minimum-time-to-complete-trips](https://github.com/vivek-indla/KNOW-DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vivek-indla/KNOW-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
@@ -371,6 +373,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/vivek-indla/KNOW-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/vivek-indla/KNOW-DSA/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/vivek-indla/KNOW-DSA/tree/master/1672-richest-customer-wealth) |
+| [1901-find-a-peak-element-ii](https://github.com/vivek-indla/KNOW-DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/vivek-indla/KNOW-DSA/tree/master/2643-row-with-maximum-ones) |
 ## Monotonic Stack
 |  |
