@@ -4,8 +4,8 @@ public:
         int ans=start^goal;
         int count=0;
         while(ans){
-            if(ans&1) count++;
-            ans=ans>>1;
+            ans=ans&(ans-1);
+            count++;
         }
         return count;
     }
