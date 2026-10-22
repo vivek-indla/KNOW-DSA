@@ -16,6 +16,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vivek-indla/KNOW-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/vivek-indla/KNOW-DSA/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vivek-indla/KNOW-DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivek-indla/KNOW-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/vivek-indla/KNOW-DSA/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/vivek-indla/KNOW-DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vivek-indla/KNOW-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vivek-indla/KNOW-DSA/tree/master/0268-missing-number) |
