@@ -5,9 +5,7 @@ public:
         vector<int> ans;
         int n=asteroids.size();
         for(int i=0;i<n;i++){
-            if(asteroids[i]>0){
-                st.push(asteroids[i]);
-            }
+            if(asteroids[i]>0) st.push(asteroids[i]);
             else{
             while(1){
             if(st.empty() || st.top()<0){
@@ -19,12 +17,8 @@ public:
                     st.pop();
                     break;
                 }
-                else if(st.top()>abs(asteroids[i])){
-                    break;
-                }
-                else{
-                    st.pop();
-                }
+                else if(st.top()>abs(asteroids[i])) break;
+                else st.pop();
                 }
             }
             }
