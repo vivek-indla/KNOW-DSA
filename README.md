@@ -37,6 +37,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/vivek-indla/KNOW-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/vivek-indla/KNOW-DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/vivek-indla/KNOW-DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0735-asteroid-collision](https://github.com/vivek-indla/KNOW-DSA/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/vivek-indla/KNOW-DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/vivek-indla/KNOW-DSA/tree/master/0875-koko-eating-bananas) |
@@ -173,6 +174,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/vivek-indla/KNOW-DSA/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/vivek-indla/KNOW-DSA/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/vivek-indla/KNOW-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vivek-indla/KNOW-DSA/tree/master/1929-concatenation-of-array) |
@@ -319,6 +321,7 @@
 | [0020-valid-parentheses](https://github.com/vivek-indla/KNOW-DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vivek-indla/KNOW-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/vivek-indla/KNOW-DSA/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vivek-indla/KNOW-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/vivek-indla/KNOW-DSA/tree/master/1472-design-browser-history) |
