@@ -269,6 +269,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivek-indla/KNOW-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/vivek-indla/KNOW-DSA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/vivek-indla/KNOW-DSA/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/vivek-indla/KNOW-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vivek-indla/KNOW-DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -314,6 +315,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vivek-indla/KNOW-DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vivek-indla/KNOW-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/1019-next-greater-node-in-linked-list) |
@@ -429,4 +431,8 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vivek-indla/KNOW-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vivek-indla/KNOW-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vivek-indla/KNOW-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
