@@ -274,6 +274,7 @@
 | [0344-reverse-string](https://github.com/vivek-indla/KNOW-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vivek-indla/KNOW-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vivek-indla/KNOW-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vivek-indla/KNOW-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vivek-indla/KNOW-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/vivek-indla/KNOW-DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2942-find-words-containing-character](https://github.com/vivek-indla/KNOW-DSA/tree/master/2942-find-words-containing-character) |
@@ -318,6 +319,7 @@
 | [0020-valid-parentheses](https://github.com/vivek-indla/KNOW-DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vivek-indla/KNOW-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vivek-indla/KNOW-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/vivek-indla/KNOW-DSA/tree/master/1472-design-browser-history) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vivek-indla/KNOW-DSA/tree/master/2487-remove-nodes-from-linked-list) |
@@ -401,6 +403,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/vivek-indla/KNOW-DSA/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/vivek-indla/KNOW-DSA/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vivek-indla/KNOW-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Timsort
 |  |
 | ------- |
@@ -435,4 +438,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vivek-indla/KNOW-DSA/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vivek-indla/KNOW-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
