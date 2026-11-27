@@ -8,18 +8,10 @@ public:
             }
             else{
                 if(st.empty()) return false;
-                if(st.top()=='{' && s[i]=='}'){
-                    st.pop();
-                }
-                else if(st.top()=='(' && s[i]==')'){
-                    st.pop();
-                }
-                else if(st.top()=='[' && s[i]==']'){
-                    st.pop();
-                }
-                else{
-                    return false;
-                }
+                if(st.top()=='{' && s[i]=='}')st.pop();
+                else if(st.top()=='(' && s[i]==')')st.pop();
+                else if(st.top()=='[' && s[i]==']')st.pop();
+                else return false;
             }
         }
         return st.empty()==true;
